@@ -20,8 +20,20 @@
 
 ---
 
-1. Think 2. Build
-2. Architect
+1. Think
+2. Build
+
+3. Architect
 
 - 7-1 Pattern introduced by Hugo Giraudel.
   `7 different folders for partial Sass files, and 1 main Sass file to import all other files into a compiled CSS stylesheet`
+
+### The 7 folders
+
+- base/
+- components/
+- layout/
+- pages/
+- themes/
+- abstracts/
+- vendors/
