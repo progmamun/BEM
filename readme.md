@@ -35,5 +35,10 @@
 - layout/
 - pages/
 - themes/
+
+#### themes in case that you're doing like web apps with different themes
+
 - abstracts/
 - vendors/
+
+#### a vendors folder where we can put third party css.
