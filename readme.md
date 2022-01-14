@@ -41,4 +41,4 @@
 - abstracts/
 - vendors/
 
-#### a vendors folder where we can put third party css.
+#### a vendors folder where we can put third party css. like Bootstrap or an icon system, or an animation framework.
